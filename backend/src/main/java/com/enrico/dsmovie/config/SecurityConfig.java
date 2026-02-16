@@ -1,4 +1,4 @@
-package com.enrico.dsmovie;
+package com.enrico.dsmovie.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
